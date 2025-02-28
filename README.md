@@ -59,7 +59,7 @@ All sensitive information has been obfuscated to protect privacy while still mai
 
 ## Acknowledgments 🙏
 
-This project is made possible thanks **Stop the Traffik**. Stop the Traffik** is a global NGO committed to preventing human trafficking. As the primary funder of Chain Breaker, they support innovative, data-driven approaches to expose and disrupt trafficking networks worldwide.
+This project is made possible thanks [Stop the Traffik](https://stopthetraffik.org/). **Stop the Traffik** is a global NGO committed to preventing human trafficking. As the primary funder of Chain Breaker, they support innovative, data-driven approaches to expose and disrupt trafficking networks worldwide.
 
 ## Contributions 🤝
 
@@ -67,7 +67,7 @@ Contributions are welcome! If you have suggestions, improvements, or wish to rep
 
 ## License 📄
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License 2.0](LICENSE).
 
 ---
 
