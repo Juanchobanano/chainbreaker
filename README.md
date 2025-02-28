@@ -59,9 +59,21 @@ All sensitive information has been obfuscated to protect privacy while still mai
 4. **Start Analyzing:**
    - Utilize the example notebooks in the `notebooks/` directory to begin your research.
 
-## Acknowledgments 🙏
+## Sponsors 🤝
 
-This project is made possible thanks [Stop the Traffik](https://stopthetraffik.org/). **Stop the Traffik** is a global NGO committed to preventing human trafficking. As the primary funder of Chain Breaker, they support innovative, data-driven approaches to expose and disrupt trafficking networks worldwide.
+This project is proudly supported by **Stop the Traffik**, a global NGO dedicated to preventing human trafficking. Their generous funding makes the Chain Breaker project possible and fuels our efforts to provide data-driven insights to combat human trafficking.  
+
+[![Stop the Traffik Logo](https://stopthetraffik.org/wp-content/uploads/2024/04/social-open-graph-default.png)](https://stopthetraffik.org/)
+
+For more information about their work, please visit [Stop the Traffik's website](https://stopthetraffik.org/).
+
+## Support & Donations ☕️
+
+If you appreciate this project and would like to help support its continued development, please consider buying me a coffee. Your donation helps keep the project running and allows us to work on innovative solutions in the fight against human trafficking.  
+
+[Buy Me A Coffee](https://www.buymeacoffee.com/your_username)
+
+Thank you for your support!
 
 ## Contributions 🤝
 
