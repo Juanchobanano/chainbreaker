@@ -1,6 +1,6 @@
 # Chain Breaker: Data-Platform to Combat Human Trafficking ⛓️
 
-<img src="img-VTgCs9xTB5lwomeSh6tPHnx9.png](https://www.lcms.org/image/08-social-issues/Web-Banner-Human-Trafficking-1280x560.jpg" width="300px">
+<img src="https://www.lcms.org/image/08-social-issues/Web-Banner-Human-Trafficking-1280x560.jpg" width="300px">
 
 ## Overview 📊
 
