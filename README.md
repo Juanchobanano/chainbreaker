@@ -1,6 +1,6 @@
-**Chain Breaker: Data-Platform to Combat Human Trafficking ⛓️**
+# Chain Breaker: Data-Platform to Combat Human Trafficking ⛓️
 
-<img src="img-VTgCs9xTB5lwomeSh6tPHnx9.png">
+<img src="img-VTgCs9xTB5lwomeSh6tPHnx9.png" width="300px">
 
 ## Overview 📊
 
