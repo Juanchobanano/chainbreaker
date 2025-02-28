@@ -59,9 +59,7 @@ All sensitive information has been obfuscated to protect privacy while still mai
 
 ## Acknowledgments 🙏
 
-This project is made possible thanks to **Chain Breaker** and **Stop the Traffik**.  
-- **Chain Breaker** is dedicated to combating human trafficking by analyzing online advertisement data to uncover critical insights into migration and exploitation patterns.  
-- **Stop the Traffik** is a global NGO committed to preventing human trafficking. As the primary funder of Chain Breaker, they support innovative, data-driven approaches to expose and disrupt trafficking networks worldwide.
+This project is made possible thanks **Stop the Traffik**. Stop the Traffik** is a global NGO committed to preventing human trafficking. As the primary funder of Chain Breaker, they support innovative, data-driven approaches to expose and disrupt trafficking networks worldwide.
 
 ## Contributions 🤝
 
