@@ -1,4 +1,6 @@
-# Chain Breaker Data Catalog 🚀
+**Chain Breaker: Data-Platform to Combat Human Trafficking ⛓️**
+
+<img src="img-VTgCs9xTB5lwomeSh6tPHnx9.png">
 
 ## Overview 📊
 
