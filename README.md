@@ -10,6 +10,10 @@ The Chain Breaker Data Catalog is a comprehensive resource that organizes, explo
 
 The primary goal of this repository is to empower the community to uncover insights into online sex commerce by providing structured and standardized data. By analyzing this data, you can detect patterns, trends, and anomalies that may indicate human trafficking activities, ultimately supporting efforts to disrupt these illicit networks.
 
+## Understanding Human Trafficking & Sexual Exploitation
+
+Human trafficking is the illegal trade of people through coercion, deception, or force for purposes of exploitation. In particular, sexual exploitation involves forcing or deceiving individuals into commercial sex activities against their will. This global crisis affects millions every year—estimates suggest that over 25 million people are victims of trafficking worldwide, with a significant number suffering from sexual exploitation. This multi-billion-dollar illicit industry thrives on human misery, stripping victims of their freedom and dignity. By shining a light on these harsh realities, we aim to inspire action and support efforts to rescue and rehabilitate those affected by this pervasive abuse.
+
 ## Data Description 📑
 
 The data catalog is organized into several key tables:
